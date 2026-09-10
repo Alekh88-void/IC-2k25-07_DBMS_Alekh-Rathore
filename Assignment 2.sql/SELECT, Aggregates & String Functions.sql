@@ -54,3 +54,4 @@ A standalone calculation — doesn't require any table, so SELECT is used with D
 
 sql
 SELECT 171 * 214 + 625 AS result;
+ 
